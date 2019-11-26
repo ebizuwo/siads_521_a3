@@ -2,6 +2,7 @@
 1. Must have python3 version installed
 2. Must have git installed... assuming this is done already
 3. Preferably running a machine with linux shell (installation file is a shell script)
+4. You must have some strava data to work with. We could not share the data for this assignment.
 
 # Installation
 ### Option 1
